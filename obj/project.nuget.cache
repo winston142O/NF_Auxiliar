@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nGsw4DP7bAGA10yu3H+0NeoFL6ypH1qU3+F3zRkVVTArrqfObW/8Pq85wZ0mQlvKHcg5lR5i9/T14gx0U/GCag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\Coding\\NF_AUX\\Controles_Auxiliares\\Controles_Auxiliares.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
